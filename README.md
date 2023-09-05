@@ -89,7 +89,7 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/linux-logo.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
