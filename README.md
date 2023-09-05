@@ -3,7 +3,7 @@
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
-    <li>👨‍🔧 I'm a <b>DevOps Junior</b></li>
+    <li>👨‍🔧 I'm a <b>DevOps Engineer</b></li>
     <li>📍 Based at <b>Paris.</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
     <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
