@@ -1,5 +1,5 @@
 # Hi everyone, I'm Mohamed Diaby
-<img align="right" alt="GIF" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/code.gif" width="53%" />
+<img align="right" alt="GIF" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/code.gif" width="53%" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
@@ -17,7 +17,7 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/modi/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/linkedin-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/in/modi/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/linkedin-button.png" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
@@ -28,25 +28,25 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/aws-logo.png" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/aws-logo.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/GCP-logo.png" width="48" height="48" alt="GCP" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/GCP-logo.png" width="48" height="48" alt="GCP" />
       </a>
       <br>Azure
     </td> 
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/proxmox-logo.png" width="48" height="48" alt="Proxmox" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/vagrant-logo.png" width="48" height="48" alt="Vagrant" />
       </a>
       <br>Vagrant
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/vmware-logo.jpg" width="48" height="48" alt="VMware Products" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/vmware-logo.jpg" width="48" height="48" alt="VMware Products" />
       </a>
       <br>VMware Products
     </td>
@@ -58,25 +58,25 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/markdown-logo.png" width="48" height="48" alt="Markdown" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/markdown-logo.png" width="48" height="48" alt="Markdown" />
       </a>
       <br>Markdown
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
       </a>
       <br>YAML
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/python-logo.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -89,19 +89,19 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/macos-logo.png" width="48" height="48" alt="MacOS" />
       </a>
       <br>MacOS
     </td>
@@ -114,44 +114,44 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/jenkins_logo.png" width="48" height="48" alt="Jenkins" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/jenkins_logo.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
        <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
       </a>
       <br>Gitlab-CI
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/ansible-logo.png" width="48" height="48" alt="Ansible" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/ansible-logo.png" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/docker-logo.png" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
         </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/kubernetes-logo.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/kubernetes-logo.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/git-logo.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/git-logo.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/terraform-logo.png" width="48" height="48" alt="Terraform" />
+        <img src="https://github.com/MozkaGit/MozkaGit/blob/main/images/terraform-logo.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>   
