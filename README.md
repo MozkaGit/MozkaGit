@@ -17,7 +17,7 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/mod/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/linkedin-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/linkedin-button.png" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
