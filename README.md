@@ -7,7 +7,7 @@ Nice to meet you. Let me introduce myself in a few lines.
     <li>📍 Based at <b>Paris.</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
     <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
-    <li>📮 You can contact me directly here : <b>mdiaby@mozka.dev</b>
+    <li>📮 You can contact me directly here : <b>mohamed@diaby.dev</b>
 
   </ul>
 Passionate IT engineer, I am always looking for new challenges.
